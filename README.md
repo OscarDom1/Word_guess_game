@@ -1,2 +1,2 @@
 # Word_guess_game
-THis Project is built with Reactjs / Typescript 
+This interesting Project is built with Reactjs / Typescript 
